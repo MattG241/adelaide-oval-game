@@ -1,0 +1,472 @@
+{
+  "version": 1,
+  "exportedAt": "2026-10-15T10:51:22.137Z",
+  "credit": "Data: Cricsheet (cricsheet.org): match data CC BY-SA 4.0; register ODC-By",
+  "fixtures": [
+    {
+      "id": "1493281",
+      "title": "Sydney Sixers v Perth Scorchers · Big Bash League, Final, 2025/26",
+      "teams": [
+        "Sydney Sixers",
+        "Perth Scorchers"
+      ],
+      "gender": "male",
+      "event": "Big Bash League",
+      "stage": "Final",
+      "season": "2025/26",
+      "date": "2026-01-25",
+      "venue": "Perth Stadium",
+      "city": "Perth"
+    },
+    {
+      "id": "1443100",
+      "title": "Sydney Thunder v Hobart Hurricanes · Big Bash League, Final, 2024/25",
+      "teams": [
+        "Sydney Thunder",
+        "Hobart Hurricanes"
+      ],
+      "gender": "male",
+      "event": "Big Bash League",
+      "stage": "Final",
+      "season": "2024/25",
+      "date": "2025-01-27",
+      "venue": "Bellerive Oval, Hobart",
+      "city": "Hobart"
+    },
+    {
+      "id": "1386137",
+      "title": "Brisbane Heat v Sydney Sixers · Big Bash League, Final, 2023/24",
+      "teams": [
+        "Brisbane Heat",
+        "Sydney Sixers"
+      ],
+      "gender": "male",
+      "event": "Big Bash League",
+      "stage": "Final",
+      "season": "2023/24",
+      "date": "2024-01-24",
+      "venue": "Sydney Cricket Ground",
+      "city": "Sydney"
+    },
+    {
+      "id": "1324684",
+      "title": "Brisbane Heat v Perth Scorchers · Big Bash League, Final, 2022/23",
+      "teams": [
+        "Brisbane Heat",
+        "Perth Scorchers"
+      ],
+      "gender": "male",
+      "event": "Big Bash League",
+      "stage": "Final",
+      "season": "2022/23",
+      "date": "2023-02-04",
+      "venue": "Perth Stadium",
+      "city": "Perth"
+    },
+    {
+      "id": "1269698",
+      "title": "Perth Scorchers v Sydney Sixers · Big Bash League, Final, 2021/22",
+      "teams": [
+        "Perth Scorchers",
+        "Sydney Sixers"
+      ],
+      "gender": "male",
+      "event": "Big Bash League",
+      "stage": "Final",
+      "season": "2021/22",
+      "date": "2022-01-28",
+      "venue": "Docklands Stadium, Melbourne",
+      "city": "Melbourne"
+    },
+    {
+      "id": "1226882",
+      "title": "Sydney Sixers v Perth Scorchers · Big Bash League, Final, 2020/21",
+      "teams": [
+        "Sydney Sixers",
+        "Perth Scorchers"
+      ],
+      "gender": "male",
+      "event": "Big Bash League",
+      "stage": "Final",
+      "season": "2020/21",
+      "date": "2021-02-06",
+      "venue": "Sydney Cricket Ground",
+      "city": "Sydney"
+    },
+    {
+      "id": "1195633",
+      "title": "Sydney Sixers v Melbourne Stars · Big Bash League, Final, 2019/20",
+      "teams": [
+        "Sydney Sixers",
+        "Melbourne Stars"
+      ],
+      "gender": "male",
+      "event": "Big Bash League",
+      "stage": "Final",
+      "season": "2019/20",
+      "date": "2020-02-08",
+      "venue": "Sydney Cricket Ground",
+      "city": "Sydney"
+    },
+    {
+      "id": "1152569",
+      "title": "Melbourne Stars v Melbourne Renegades · Big Bash League, Final, 2018/19",
+      "teams": [
+        "Melbourne Stars",
+        "Melbourne Renegades"
+      ],
+      "gender": "male",
+      "event": "Big Bash League",
+      "stage": "Final",
+      "season": "2018/19",
+      "date": "2019-02-17",
+      "venue": "Docklands Stadium",
+      "city": "Melbourne"
+    },
+    {
+      "id": "1114898",
+      "title": "Adelaide Strikers v Hobart Hurricanes · Big Bash League, Final, 2017/18",
+      "teams": [
+        "Adelaide Strikers",
+        "Hobart Hurricanes"
+      ],
+      "gender": "male",
+      "event": "Big Bash League",
+      "stage": "Final",
+      "season": "2017/18",
+      "date": "2018-02-04",
+      "venue": "Adelaide Oval",
+      "city": "Adelaide"
+    },
+    {
+      "id": "1494568",
+      "title": "Perth Scorchers v Hobart Hurricanes · Women's Big Bash League, Final, 2025/26",
+      "teams": [
+        "Perth Scorchers",
+        "Hobart Hurricanes"
+      ],
+      "gender": "female",
+      "event": "Women's Big Bash League",
+      "stage": "Final",
+      "season": "2025/26",
+      "date": "2025-12-13",
+      "venue": "Bellerive Oval, Hobart",
+      "city": "Hobart"
+    },
+    {
+      "id": "1387228",
+      "title": "Adelaide Strikers v Brisbane Heat · Women's Big Bash League, Final, 2023/24",
+      "teams": [
+        "Adelaide Strikers",
+        "Brisbane Heat"
+      ],
+      "gender": "female",
+      "event": "Women's Big Bash League",
+      "stage": "Final",
+      "season": "2023/24",
+      "date": "2023-12-02",
+      "venue": "Adelaide Oval",
+      "city": "Adelaide"
+    },
+    {
+      "id": "1341268",
+      "title": "Adelaide Strikers v Sydney Sixers · Women's Big Bash League, Final, 2022/23",
+      "teams": [
+        "Adelaide Strikers",
+        "Sydney Sixers"
+      ],
+      "gender": "female",
+      "event": "Women's Big Bash League",
+      "stage": "Final",
+      "season": "2022/23",
+      "date": "2022-11-26",
+      "venue": "North Sydney Oval, Sydney",
+      "city": "Sydney"
+    },
+    {
+      "id": "1269113",
+      "title": "Perth Scorchers v Adelaide Strikers · Women's Big Bash League, Final, 2021/22",
+      "teams": [
+        "Perth Scorchers",
+        "Adelaide Strikers"
+      ],
+      "gender": "female",
+      "event": "Women's Big Bash League",
+      "stage": "Final",
+      "season": "2021/22",
+      "date": "2021-11-27",
+      "venue": "Perth Stadium",
+      "city": "Perth"
+    },
+    {
+      "id": "1226963",
+      "title": "Melbourne Stars v Sydney Thunder · Women's Big Bash League, Final, 2020/21",
+      "teams": [
+        "Melbourne Stars",
+        "Sydney Thunder"
+      ],
+      "gender": "female",
+      "event": "Women's Big Bash League",
+      "stage": "Final",
+      "season": "2020/21",
+      "date": "2020-11-29",
+      "venue": "North Sydney Oval",
+      "city": "Sydney"
+    },
+    {
+      "id": "1188440",
+      "title": "Adelaide Strikers v Brisbane Heat · Women's Big Bash League, Final, 2019/20",
+      "teams": [
+        "Adelaide Strikers",
+        "Brisbane Heat"
+      ],
+      "gender": "female",
+      "event": "Women's Big Bash League",
+      "stage": "Final",
+      "season": "2019/20",
+      "date": "2019-12-08",
+      "venue": "Allan Border Field",
+      "city": "Brisbane"
+    },
+    {
+      "id": "1152783",
+      "title": "Sydney Sixers v Brisbane Heat · Women's Big Bash League, Final, 2018/19",
+      "teams": [
+        "Sydney Sixers",
+        "Brisbane Heat"
+      ],
+      "gender": "female",
+      "event": "Women's Big Bash League",
+      "stage": "Final",
+      "season": "2018/19",
+      "date": "2019-01-26",
+      "venue": "Drummoyne Oval",
+      "city": "Sydney"
+    },
+    {
+      "id": "1118530",
+      "title": "Perth Scorchers v Sydney Sixers · Women's Big Bash League, Final, 2017/18",
+      "teams": [
+        "Perth Scorchers",
+        "Sydney Sixers"
+      ],
+      "gender": "female",
+      "event": "Women's Big Bash League",
+      "stage": "Final",
+      "season": "2017/18",
+      "date": "2018-02-04",
+      "venue": "Adelaide Oval",
+      "city": null
+    },
+    {
+      "id": "1535465",
+      "title": "Gujarat Titans v Royal Challengers Bengaluru · Indian Premier League, Final, 2026",
+      "teams": [
+        "Gujarat Titans",
+        "Royal Challengers Bengaluru"
+      ],
+      "gender": "male",
+      "event": "Indian Premier League",
+      "stage": "Final",
+      "season": "2026",
+      "date": "2026-05-31",
+      "venue": "Narendra Modi Stadium, Ahmedabad",
+      "city": "Ahmedabad"
+    },
+    {
+      "id": "1473511",
+      "title": "Royal Challengers Bengaluru v Punjab Kings · Indian Premier League, Final, 2025",
+      "teams": [
+        "Royal Challengers Bengaluru",
+        "Punjab Kings"
+      ],
+      "gender": "male",
+      "event": "Indian Premier League",
+      "stage": "Final",
+      "season": "2025",
+      "date": "2025-06-03",
+      "venue": "Narendra Modi Stadium, Ahmedabad",
+      "city": "Ahmedabad"
+    },
+    {
+      "id": "1426312",
+      "title": "Sunrisers Hyderabad v Kolkata Knight Riders · Indian Premier League, Final, 2024",
+      "teams": [
+        "Sunrisers Hyderabad",
+        "Kolkata Knight Riders"
+      ],
+      "gender": "male",
+      "event": "Indian Premier League",
+      "stage": "Final",
+      "season": "2024",
+      "date": "2024-05-26",
+      "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+      "city": "Chennai"
+    },
+    {
+      "id": "1312200",
+      "title": "Rajasthan Royals v Gujarat Titans · Indian Premier League, Final, 2022",
+      "teams": [
+        "Rajasthan Royals",
+        "Gujarat Titans"
+      ],
+      "gender": "male",
+      "event": "Indian Premier League",
+      "stage": "Final",
+      "season": "2022",
+      "date": "2022-05-29",
+      "venue": "Narendra Modi Stadium, Ahmedabad",
+      "city": "Ahmedabad"
+    },
+    {
+      "id": "1254117",
+      "title": "Chennai Super Kings v Kolkata Knight Riders · Indian Premier League, Final, 2021",
+      "teams": [
+        "Chennai Super Kings",
+        "Kolkata Knight Riders"
+      ],
+      "gender": "male",
+      "event": "Indian Premier League",
+      "stage": "Final",
+      "season": "2021",
+      "date": "2021-10-15",
+      "venue": "Dubai International Cricket Stadium",
+      "city": "Dubai"
+    },
+    {
+      "id": "1237181",
+      "title": "Delhi Capitals v Mumbai Indians · Indian Premier League, Final, 2020/21",
+      "teams": [
+        "Delhi Capitals",
+        "Mumbai Indians"
+      ],
+      "gender": "male",
+      "event": "Indian Premier League",
+      "stage": "Final",
+      "season": "2020/21",
+      "date": "2020-11-10",
+      "venue": "Dubai International Cricket Stadium",
+      "city": null
+    },
+    {
+      "id": "1512773",
+      "title": "India v New Zealand · ICC Men's T20 World Cup, Final, 2025/26",
+      "teams": [
+        "India",
+        "New Zealand"
+      ],
+      "gender": "male",
+      "event": "ICC Men's T20 World Cup",
+      "stage": "Final",
+      "season": "2025/26",
+      "date": "2026-03-08",
+      "venue": "Narendra Modi Stadium, Ahmedabad",
+      "city": "Ahmedabad"
+    },
+    {
+      "id": "1415755",
+      "title": "India v South Africa · ICC Men's T20 World Cup, Final, 2024",
+      "teams": [
+        "India",
+        "South Africa"
+      ],
+      "gender": "male",
+      "event": "ICC Men's T20 World Cup",
+      "stage": "Final",
+      "season": "2024",
+      "date": "2024-06-29",
+      "venue": "Kensington Oval, Bridgetown, Barbados",
+      "city": "Bridgetown"
+    },
+    {
+      "id": "1298179",
+      "title": "Pakistan v England · ICC Men's T20 World Cup, Final, 2022/23",
+      "teams": [
+        "Pakistan",
+        "England"
+      ],
+      "gender": "male",
+      "event": "ICC Men's T20 World Cup",
+      "stage": "Final",
+      "season": "2022/23",
+      "date": "2022-11-13",
+      "venue": "Melbourne Cricket Ground",
+      "city": "Melbourne"
+    },
+    {
+      "id": "1273756",
+      "title": "New Zealand v Australia · ICC Men's T20 World Cup, Final, 2021/22",
+      "teams": [
+        "New Zealand",
+        "Australia"
+      ],
+      "gender": "male",
+      "event": "ICC Men's T20 World Cup",
+      "stage": "Final",
+      "season": "2021/22",
+      "date": "2021-11-14",
+      "venue": "Dubai International Cricket Stadium",
+      "city": "Dubai"
+    },
+    {
+      "id": "1490709",
+      "title": "England v Australia · ICC Women's T20 World Cup, Final, 2026",
+      "teams": [
+        "England",
+        "Australia"
+      ],
+      "gender": "female",
+      "event": "ICC Women's T20 World Cup",
+      "stage": "Final",
+      "season": "2026",
+      "date": "2026-07-05",
+      "venue": "Lord's, London",
+      "city": "London"
+    },
+    {
+      "id": "1432444",
+      "title": "New Zealand v South Africa · ICC Women's T20 World Cup, Final, 2024/25",
+      "teams": [
+        "New Zealand",
+        "South Africa"
+      ],
+      "gender": "female",
+      "event": "ICC Women's T20 World Cup",
+      "stage": "Final",
+      "season": "2024/25",
+      "date": "2024-10-20",
+      "venue": "Dubai International Cricket Stadium",
+      "city": "Dubai"
+    },
+    {
+      "id": "1338062",
+      "title": "Australia v South Africa · ICC Women's T20 World Cup, Final, 2022/23",
+      "teams": [
+        "Australia",
+        "South Africa"
+      ],
+      "gender": "female",
+      "event": "ICC Women's T20 World Cup",
+      "stage": "Final",
+      "season": "2022/23",
+      "date": "2023-02-26",
+      "venue": "Newlands, Cape Town",
+      "city": "Cape Town"
+    },
+    {
+      "id": "1173070",
+      "title": "Australia v India · ICC Women's T20 World Cup, Final, 2019/20",
+      "teams": [
+        "Australia",
+        "India"
+      ],
+      "gender": "female",
+      "event": "ICC Women's T20 World Cup",
+      "stage": "Final",
+      "season": "2019/20",
+      "date": "2020-03-08",
+      "venue": "Melbourne Cricket Ground",
+      "city": "Melbourne"
+    }
+  ]
+}
